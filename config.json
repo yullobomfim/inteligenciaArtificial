@@ -1,0 +1,37 @@
+{
+    "nome": "james",
+    "acoes": [
+        {
+            "nome": "contar",
+            "objetos": [
+                "cerveja",
+                "cafe",
+                "arroz"
+            ]
+        },
+        {
+            "nome": "incluir",
+            "objetos": [
+                "cerveja",
+                "cafe",
+                "arroz"
+            ]
+        },
+        {
+            "nome": "excluir",
+            "objetos": [
+                "cerveja",
+                "cafe",
+                "arroz"
+            ]
+        },
+        {
+            "nome": "comprar",
+            "objetos": [
+                "cerveja",
+                "cafe",
+                "arroz"
+            ]
+        }
+    ]
+}
