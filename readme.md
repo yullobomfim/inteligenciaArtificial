@@ -14,8 +14,8 @@ Este Assistente virtual foi desenvolvido utilizando as seguintes tecnologias:
 - [**Python**](https://python.org/): linguagem de programação que permite trabalhar rapidamente e integrar sistemas de forma mais eficaz;
 
 ## 📟 Layout e Análise da aplicação
-A aplicação **Tok Y Stok** foi desenvolvido para funcionar por linha de comando e não tem a pretensão de ser definitiva, mas apenas atender aos critérios da avaliação desta disciplina e o código fonte estão disponíveis no meu GitHub [**yullobomfim**](https://github.com/yullobomfim/inteligenciaArtificial).
-Disponibilizo ainda um vídeo autoral explicando o funcionamento do assistente atráves do link:  [**video**](https://   )
+A aplicação **Tok Y Stok** foi desenvolvido para funcionar por linha de comando e não tem a pretensão de ser definitiva, mas apenas atender aos critérios da avaliação desta disciplina e o código fonte está disponível no meu GitHub [**yullobomfim**](https://github.com/yullobomfim/inteligenciaArtificial).
+Disponibilizo ainda um vídeo autoral explicando o funcionamento do assistente atráves do link: [**video Arquivos**](https://www.loom.com/share/94b1c787fbfc42cfb3e0d239717d39fb) e [**video Demonstrativo**](https://loom.com/share/864943eebc7f4b3db71e5cd4d9b3e909)
 
 ## 🔧 Instalação e Execução
 Para você poder executar esta aplicação, terá que ter instalado em sua máquina o [**Git**](https://git-scm.com/) e o [**Python**](https://python.org/).

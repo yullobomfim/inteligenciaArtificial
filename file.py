@@ -16,14 +16,14 @@ def start():
         except sr.UnknownValueError:
             print('Eu não entendi o que você disse. Você pode repetir?')
     
- # aqui temos as palavras em array
+    # aqui temos as palavras em array
     tokenizador = word_tokenize(comandos, 'portuguese')
     comando_filtrado = []
     for comando in tokenizador:
         if comando not in palavras_de_parada:
             comando_filtrado.append(comando)
 
-# ja temos as palavras filtradas
+    # ja temos as palavras filtradas
     return comando_filtrado
 
 def buscar_config():
