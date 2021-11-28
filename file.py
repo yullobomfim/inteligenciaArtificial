@@ -8,8 +8,8 @@ def start():
     with sr.Microphone() as fonte_audio:
         micro.adjust_for_ambient_noise(fonte_audio)
        
-        print('Olá, Me Chamo Rita e eu sou um Assitente Virtual. Fale qual a ação você deseja executar.')        
-        fala = micro.listen(fonte_audio, timeout=6, phrase_time_limit=6)
+        print('Olá, Me Chamo Rita e eu sou um Assitente Virtual. Fale a ação que deseja executar.')        
+        fala = micro.listen(fonte_audio, timeout=5, phrase_time_limit=5)
         try:
             comandos = micro.recognize_google(fala, language='pt-BR')
             print(f'Você falou a frase : {comandos}')
