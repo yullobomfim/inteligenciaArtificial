@@ -1,17 +1,20 @@
 {
-    "nome": "james",
+    "nome": "rita",
     "acoes": [
         {
             "nome": "contar",
-            "objetos": "caixa"
+            "objetos":
+                "produtos"
         },
         {
             "nome": "incluir",
-            "objetos": "caixa"
+            "objetos":
+                "produtos"
         },
         {
             "nome": "excluir",
-            "objetos": "caixa"
+            "objetos":
+                "produtos"
         }
     ]
 }
