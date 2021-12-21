@@ -1,3 +1,2 @@
-pyaudio
-nltk
-speechRecognition
+chatterbot
+chatterbot_corpus
